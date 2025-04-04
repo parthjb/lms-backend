@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Pydantic cache
+.pydantic/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# SQLite or other DB files
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency files (if you're tracking only requirements.txt)
+pip-log.txt
+
